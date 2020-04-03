@@ -72,4 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 Design by figma here: https://www.figma.com/file/aMt96kV99uK5HGoKB0JSEq/banhangonline?node-id=0%3A1
 
-Plain html here: https://github.com/hakudang/onlineshopping02/blob/master/public/demo.html
+Plain html here: https://github.com/hakudang/onlineshopping02/blob/master/public/layout
